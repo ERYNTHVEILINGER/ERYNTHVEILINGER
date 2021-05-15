@@ -24,7 +24,9 @@ function validate()
      alert( "Please provide your Personal Address!" );
      document.StudentRegistration.personaladdress.focus() ;
      return false;
-
+   }
+   if ( ( StudentRegistration.sex[0].checked == false ) && ( StudentRegistration.sex[1].checked == false ) )
+   {
    
  var email = document.StudentRegistration.emailid.value;
   atpos = email.indexOf("@");
