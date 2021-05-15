@@ -150,16 +150,18 @@
         background-color: rgb(255, 0, 0);
     }
     .header{
-        width: 100% ;  
-        height: 110px;
+        width: 50% ;  
+        height: 380px;
         border: 2pt rgb(0, 0, 0) solid;
         background-color: rgb(209, 209, 209);
+        left: 0%;
+        position: absolute;
         
     }
     .sec1{
-        width: 15%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
+        height: 100px;
         text-align: center;
         left: 1%;
         position: absolute;
@@ -167,37 +169,40 @@
         padding: 10px 10px 10px;
     }
     .sec2{
-        width: 64%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
+        height: 100px;
         text-align: center;
         background-color: rgb(92, 92, 92);
-        left: 17%;
+        left: 1%;
         position: absolute;
         padding: 10px 10px 10px;
+        bottom: 30%;
     }
     .sec3{
-        width: 17%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
+        height: 100px;
         text-align: center;
         background-color: rgb(92, 92, 92);
-        left: 82%;
+        left: 1%;
         position: absolute;
         padding: 10px 10px 10px;
+        bottom: 1%;
     }
     .sec4{
-        width: 81%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 200px;
+        height: 380px;
         background-color: rgb(209, 209, 209);
-        left: 0px;
+        left: 459px;
         position: absolute;
+        bottom: 59.8%;
     }
     .nav1{
-        width: 65%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 120px;
+        height: 155px;
         background-color: rgb(92, 92, 92);
         left: 1%;
         position: absolute;
@@ -205,37 +210,39 @@
         padding: 10px 10px 10px;
     }
     .nav2{
-        width: 29%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 120px;
+        height: 155px;
         background-color: rgb(92, 92, 92);
-        left: 70%;
+        left: 1%;
         position: absolute;
         text-align: center;
         padding: 10px 10px 10px;
+        bottom: 1%;
     }
     .sec5{
-        width: 18%;
+        width: 100%;
         border: 2pt rgb(0, 0, 0) solid;
         height: 200px;
         background-color: rgb(41, 41, 41);
-        left: 82%;
+        left: 0%;
         position: absolute;
         padding: 10px 10px 10px;
+        bottom: 39%;
     }
     .sec6{
-        width: 81%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 550px;
+        height: 310px;
         background-color: rgb(209, 209, 209);
         left: 0px;
         position: absolute;
-        top: 35%;
+        top: 60%;
     }
     .art1{
-        width: 40%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 450px;
+        height: 120px;
         background-color: rgb(92, 92, 92);
         left: 1%;
         position: absolute;
@@ -243,30 +250,31 @@
         padding: 10px 10px 10px;
     }
     .art2{
-        width: 54%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 450px;
+        height: 120px;
         background-color: rgb(92, 92, 92);
-        left: 45%;
+        left: 1%;
         position: absolute;
         text-align: center;
         padding: 10px 10px 10px;
+        bottom: 1%;
     }
     .sec7{
-        width: 18%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 550px;
+        height: 310px;
         background-color: rgb(209, 209, 209);
-        left: 82%;
+        left: 50%;
         position: absolute;
-        top: 35%;
+        top: 60%;
     }
     .as1{
-        width: 90%;
+        width: 98%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 450px;
+        height: 245px;
         background-color: rgb(92, 92, 92);
-        left: 5%;
+        left: 1%;
         position: absolute;
         text-align: center;
         padding: 10px 10px 10px;
@@ -292,15 +300,15 @@
     }
     .header{
         width: 100% ;  
-        height: 110px;
+        height: 310px;
         border: 2pt rgb(0, 0, 0) solid;
         background-color: rgb(209, 209, 209);
         
     }
     .sec1{
-        width: 15%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
+        height: 120px;
         text-align: center;
         left: 1%;
         position: absolute;
@@ -308,168 +316,25 @@
         padding: 10px 10px 10px;
     }
     .sec2{
-        width: 64%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
-        text-align: center;
-        background-color: rgb(92, 92, 92);
-        left: 17%;
-        position: absolute;
-        padding: 10px 10px 10px;
-    }
-    .sec3{
-        width: 17%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
-        text-align: center;
-        background-color: rgb(92, 92, 92);
-        left: 82%;
-        position: absolute;
-        padding: 10px 10px 10px;
-    }
-    .sec4{
-        width: 81%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 200px;
-        background-color: rgb(209, 209, 209);
-        left: 0px;
-        position: absolute;
-    }
-    .nav1{
-        width: 65%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
         height: 120px;
+        text-align: center;
         background-color: rgb(92, 92, 92);
         left: 1%;
         position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .nav2{
-        width: 29%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 120px;
-        background-color: rgb(92, 92, 92);
-        left: 70%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .sec5{
-        width: 18%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 200px;
-        background-color: rgb(41, 41, 41);
-        left: 82%;
-        position: absolute;
-        padding: 10px 10px 10px;
-    }
-    .sec6{
-        width: 60%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 550px;
-        background-color: rgb(209, 209, 209);
-        left: 0px;
-        position: absolute;
-        top: 35%;
-    }
-    .art1{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 250px;
-        background-color: rgb(92, 92, 92);
-        left: 1%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .art2{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 230px;
-        background-color: rgb(92, 92, 92);
-        left: 1%;
-        position: absolute;
-        text-align: center;
         padding: 10px 10px 10px;
         bottom: 0%;
     }
-    .sec7{
-        width: 38%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 550px;
-        background-color: rgb(209, 209, 209);
-        left: 62%;
-        position: absolute;
-        top: 35%;
-    }
-    .as1{
-        width: 90%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 450px;
-        background-color: rgb(92, 92, 92);
-        left: 5%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .footer{
-        width: 100%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 60px;
-        background-color: rgb(209, 209, 209);
-        left: 0%;
-        position: absolute;
-        bottom: 0%;
-    }
-}
-
-@media only screen and (max-width: 375px){
-    #main{
-        width: 95%;
-        height: 1000px;
-        border: 2pt rgb(0, 0, 0) solid;
-        position: relative;
-        background-color: rgb(0, 119, 255);
-    }
-    .header{
-        width: 100% ;  
-        height: 230px;
-        border: 2pt rgb(0, 0, 0) solid;
-        background-color: rgb(209, 209, 209);
-        
-    }
-    .sec1{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
-        text-align: center;
-        left: 1%;
-        position: absolute;
-        background-color: rgb(92, 92, 92);
-        padding: 10px 10px 10px;
-    }
-    .sec2{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
-        text-align: center;
-        background-color: rgb(92, 92, 92);
-        left: 1%;
-        position: absolute;
-        padding: 10px 10px 10px;
-        top: 11%;
-    }
     .sec3{
-        width: 98%;
+        width: 46%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 50px;
+        height: 245px;
         text-align: center;
         background-color: rgb(92, 92, 92);
-        left: 1%;
+        left: 53%;
         position: absolute;
         padding: 10px 10px 10px;
-        top: 17%;
     }
     .sec4{
         width: 100%;
@@ -478,11 +343,12 @@
         background-color: rgb(209, 209, 209);
         left: 0px;
         position: absolute;
+        bottom: 46%;
     }
     .nav1{
-        width: 48%;
+        width: 50%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 140px;
+        height: 130px;
         background-color: rgb(92, 92, 92);
         left: 1%;
         position: absolute;
@@ -492,78 +358,156 @@
     .nav2{
         width: 48%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 140px;
+        height: 130px;
         background-color: rgb(92, 92, 92);
         left: 51%;
         position: absolute;
         text-align: center;
         padding: 10px 10px 10px;
+        bottom: 3.5%;
     }
     .sec5{
         width: 100%;
         border: 2pt rgb(0, 0, 0) solid;
-        height: 100px;
+        height: 70px;
         background-color: rgb(41, 41, 41);
         left: 0%;
         position: absolute;
         padding: 10px 10px 10px;
-        top: 46%;
+        bottom: 38.5%;
     }
-    .sec6{
-        width: 61%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 340px;
-        background-color: rgb(209, 209, 209);
-        left: 0px;
-        position: absolute;
-        top: 57%;
-    }
-    .art1{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 150px;
-        background-color: rgb(92, 92, 92);
-        left: 1%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .art2{
-        width: 98%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 120px;
-        background-color: rgb(92, 92, 92);
-        left: 1%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .sec7{
-        width: 38%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 340px;
-        background-color: rgb(209, 209, 209);
-        left: 62%;
-        position: absolute;
-        top: 57%;
-    }
-    .as1{
-        width: 90%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 280px;
-        background-color: rgb(92, 92, 92);
-        left: 5%;
-        position: absolute;
-        text-align: center;
-        padding: 10px 10px 10px;
-    }
-    .footer{
-        width: 100%;
-        border: 2pt rgb(0, 0, 0) solid;
-        height: 60px;
-        background-color: rgb(209, 209, 209);
-        left: 0%;
-        position: absolute;
-        bottom: 0%;
-    }
-}
+    @media only screen and (max-width: 480px){
+        #main{
+            width: 95%;
+            height: 1500px;
+            border: 2pt rgb(0, 0, 0) solid;
+            position: relative;
+            background-color: rgb(179, 255, 0);
+        }
+        .header{
+            width: 100% ;  
+            height: 410px;
+            border: 2pt rgb(0, 0, 0) solid;
+            background-color: rgb(209, 209, 209);
+            
+        }
+        .sec1{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 120px;
+            text-align: center;
+            left: 1%;
+            position: absolute;
+            background-color: rgb(92, 92, 92);
+            padding: 10px 10px 10px;
+        }
+        .sec2{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 120px;
+            text-align: center;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            padding: 10px 10px 10px;
+            bottom: 25%;
+        }
+        .sec3{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 90px;
+            text-align: center;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            padding: 10px 10px 10px;
+        }
+        .sec4{
+            width: 100%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 200px;
+            background-color: rgb(209, 209, 209);
+            left: 0px;
+            position: absolute;
+            bottom: 57%;
+        }
+        .nav1{
+            width: 50%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 130px;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            text-align: center;
+            padding: 10px 10px 10px;
+        }
+        .nav2{
+            width: 48%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 130px;
+            background-color: rgb(92, 92, 92);
+            left: 51%;
+            position: absolute;
+            text-align: center;
+            padding: 10px 10px 10px;
+            bottom: 3.5%;
+        }
+        .sec5{
+            width: 100%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 125px;
+            background-color: rgb(41, 41, 41);
+            left: 0%;
+            position: absolute;
+            padding: 10px 10px 10px;
+            bottom: 48%;
+        }
+        .sec6{
+            width: 100%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 310px;
+            background-color: rgb(209, 209, 209);
+            left: 0px;
+            position: absolute;
+            top: 52%;
+        }
+        .art1{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 120px;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            text-align: center;
+            padding: 10px 10px 10px;
+        }
+        .art2{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 120px;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            text-align: center;
+            padding: 10px 10px 10px;
+            bottom: 1%;
+        }
+        .sec7{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 310px;
+            background-color: rgb(209, 209, 209);
+            left: 1%;
+            position: absolute;
+            top: 73%;
+        }
+        .as1{
+            width: 98%;
+            border: 2pt rgb(0, 0, 0) solid;
+            height: 245px;
+            background-color: rgb(92, 92, 92);
+            left: 1%;
+            position: absolute;
+            text-align: center;
+            padding: 10px 10px 10px;
+        }
